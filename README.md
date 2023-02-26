@@ -1,5 +1,5 @@
-<h1>HEY Y'ALL..!👋</h1>
-<h3><b>I'm Chandana B!</b></h3>
+<h3>HEY Y'ALL..!👋</h3>
+<h2><b>I'm Chandana B!</b></h2>
 <br>
 <h5>⚡A bit about Myself!⚡</h5>
 <i>Currently:</i><b> Computer Science Engineering </b>student at ACS College of Engineering, Bangalore. <br>
