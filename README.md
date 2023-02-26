@@ -35,7 +35,7 @@ As of now, I am focusing on <b>web development</b> but later on trying to explor
 </p>
 
 <h2 align="left">📝PROJECTS</h2>
-I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So you can have a look at my project at https://github.com/chandanaaaB.
+Projects play a major role in showcasing your skills. They help in predicting skills of a person and also I believe in implementing the knowledge which I have. So you can have a look at my project at https://github.com/chandanaaaB.
 
 <h2 align="left">Let's Get Connected🔗</h2>
 You can reach out to me through</p>
