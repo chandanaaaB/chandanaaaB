@@ -1,7 +1,7 @@
 <h3>HEY Y'ALL..!👋</h3>
 <h2><b>I'm Chandana B!🤵🏻‍♀</b></h2>
 <br>
-<h5>⚡A bit about Myself!⚡</h5>
+<h5>A bit about Myself!</h5>
 <i>Currently:</i><b> Computer Science Engineering </b>student at ACS College of Engineering, Bangalore. <br>
 As of now, I am focusing on <b>web development</b> but later on trying to explore my learning in Data Science Field. Being a very <b>hard working,a quick learner and Highly goal oriented person</b>. I look at the problem and try to analyse them in all possible ways. I would like to work in a team oriented environment and try to explore my skills towards the growth of the organisation.<br>
 
@@ -36,7 +36,7 @@ As of now, I am focusing on <b>web development</b> but later on trying to explor
 <h2 align="left">📝PROJECTS</h2>
 Projects play a major role in showcasing your skills. They help in predicting skills of a person and also I believe in implementing the knowledge which I have. So you can have a look at my project at https://github.com/chandanaaaB.
 
-<h2 align="left">Let's Get Connected🔗</h2>
+<h2 align="left">⚡Let's Get Connected</h2>
 You can reach out to me through</p>
 <div align="left">
 <a  href=" https://www.linkedin.com/in/chandanaa-b-0b7417255 " target="_blank">
