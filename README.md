@@ -14,15 +14,11 @@ I am learning web development and having knowledge of HTML,CSS & Javascript. Bes
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
-
-<hr>
-<h2 align="center">Communication - the human connection - is the key to personal and success !</h2>
-
 <h1 align="center">Let's Get Connected</h1>
 
 You can reach out to me </p>
 
-<div align="center">
+<div align="left">
 <a  href=" https://www.linkedin.com/in/chandanaa-b-0b7417255 " target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:Chandanaa.b@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/rohan.kulkarni.2520/" target="_blank">
 </div>
