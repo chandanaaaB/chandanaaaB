@@ -1,5 +1,5 @@
-<h2>Hey y'all!👋</h2>
-I'm Chandana B! 
+<h1>Hey y'all!👋</h1>
+<h2><b>I'm Chandana B!</b></h2>
 <br>
 <br>
 ⚡A bit about Myself!⚡
@@ -9,7 +9,7 @@ I'm Chandana B!
 As of now, I am focusing on <b>web development</b> but later on trying to explore my learning in Data Science Field.Being a very <b>hard working,a quick learner and Highly goal oriented person</b>. I look at the problem and try to analyse them in all possible ways. I would like to work in a team oriented environment and try to explore my skills towards the growth of the organisation.<br>
  
 
-<h1 align="center">💻LANGUAGES AND TOOLS:</h1>
+<h2 align="center">💻LANGUAGES AND TOOLS:</h2>
 <p>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -37,11 +37,11 @@ As of now, I am focusing on <b>web development</b> but later on trying to explor
 </a>  
 </p>
 
-<h1 align="center">PROJECTS</h1>
+<h2 align="center">PROJECTS</h2>
 I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So you can have a look at my project at https://github.com/chandanaaaB.
 
 
-<h1 align="center">Let's Get Connected</h1>
+<h2 align="center">Let's Get Connected</h2>
 You can reach out to me through</p>
 <div align="left">
 <a  href=" https://www.linkedin.com/in/chandanaa-b-0b7417255 " target="_blank">
