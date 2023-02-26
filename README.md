@@ -4,13 +4,13 @@
 I'm Chandana B! 
 
 <br>
-⚡A bit about Myself ![image](https://user-images.githubusercontent.com/116903773/221394028-6352fe4f-f1be-48c2-aae3-685d1f1e1684.png)⚡<br>
+⚡A bit about Myself!⚡<br>
 <i>Currently:</i> Computer Science Engineering student at ACS College of Enginnering, Banaglore. <br>
 As of now, I am focusing on <b>web development</b> but later on trying to explore my learning in Data Science Field.Being a very <b>hard working,a quick learner and Highly goal oriented person</b>. I look at the problem and try to analyse them in all possible ways. I would like to work in a team oriented environment and try to explore my skills towards the growth of the organisation.<br>
  
 
-<h1 align="center">💻LANGUAGES AND TOOLS:</h1>
-<p align="left">
+<h1 align="left">💻LANGUAGES AND TOOLS:</h1>
+<p>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a> 
@@ -35,12 +35,10 @@ As of now, I am focusing on <b>web development</b> but later on trying to explor
 <a>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a> 
-
 </p>
 
 
 I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So you can have a look at my project at https://github.com/chandanaaaB.
-
 
 
 <h1 align="center">Let's Get Connected</h1>
