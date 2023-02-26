@@ -1,6 +1,5 @@
 <h1>HEY Y'ALL..!👋</h1>
-<h2><b>I'm Chandana B!</b></h2>
-<br>
+<h3><b>I'm Chandana B!</b></h3>
 <br>
 <h5>⚡A bit about Myself!⚡</h5>
 <br>
