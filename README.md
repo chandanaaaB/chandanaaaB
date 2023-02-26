@@ -1,4 +1,4 @@
-<h2>HEY Y'ALL..!👋</h3>
+<h3>HEY Y'ALL..!👋</h3>
 <h2><b>I'm Chandana B!</b></h2>
 <br>
 <h5>⚡A bit about Myself!⚡</h5>
