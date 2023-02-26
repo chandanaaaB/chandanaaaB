@@ -3,9 +3,8 @@
 
 ⚡A bit about Myself!⚡
 <br>
-<br><i>Currently:</i><b> Computer Science Engineering </b>student at ACS College of Engineering, Banaglore. <br>
-As of now, I am focusing on <b>web development</b> but later on trying to explore my learning in Data Science Field.Being a very <b>hard working,a quick learner and Highly goal oriented person</b>. I look at the problem and try to analyse them in all possible ways. I would like to work in a team oriented environment and try to explore my skills towards the growth of the organisation.<br>
- 
+<br><i>Currently:</i><b> Computer Science Engineering </b>student at ACS College of Engineering, Bangalore. <br>
+As of now, I am focusing on <b>web development</b> but later on trying to explore my learning in Data Science Field. Being a very <b>hard working,a quick learner and Highly goal oriented person</b>. I look at the problem and try to analyse them in all possible ways. I would like to work in a team oriented environment and try to explore my skills towards the growth of the organisation.<br>
 
 <h2 align="left">💻LANGUAGES AND TOOLS:</h2>
 <p>
