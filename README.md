@@ -39,7 +39,7 @@ Projects play a major role in showcasing your skills. They help in predicting sk
 <h2 align="left">⚡LET's GET CONNECTED</h2>
 You can reach out to me through</p>
 <div align="left">
-<a  href=" https://www.linkedin.com/in/chandanaa-b-0b7417255 " target="_blank">
+<a  href="https://www.linkedin.com/in/chandanaa-b-0b7417255" target="_blank">
  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:Chandanaa.b@gmail.com">
